@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@angular/http": "^7.2.16"
+  },
+  "devDependencies": {
+    "@angular/cli": "^15.1.6"
+  }
+}
